@@ -1,6 +1,6 @@
-# Node.js Starter
+# node-js-aws
 
-A minimal Express application.
+A basic Express application.
 
 ## Requirements
 
