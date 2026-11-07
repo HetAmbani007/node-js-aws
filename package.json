@@ -1,0 +1,13 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "A basic Node.js starter project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
